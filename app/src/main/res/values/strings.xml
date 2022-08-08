@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHubSearchUser</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="content_text">Hello.. Welcome to Github App</string>
+    <string name="profile_name">Wahyu Purnomo</string>
+    <string name="profile_email">wahyupasther91@gmail.com</string>
+    <string name="image_description">Tentang Saya</string>
+    <string name="detail_user">Foto User</string>
+    <string name="detail_icon">Gambar Icon</string>
+
+</resources>
